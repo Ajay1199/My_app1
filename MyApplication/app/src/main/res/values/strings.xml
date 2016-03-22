@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_gameover">GameoverActivity</string>
+    <string name="title_activity_multiplayeractivity">multiplayeractivity</string>
+    <string name="title_activity_multigameactivity">Multigameactivity</string>
+    <string name="title_activity_game_multi">GameMultiActivity</string>
+    <string name="title_activity_savescore">SavescoreActivity</string>
+    <string name="title_activity_update_">Update_Activity</string>
+    <string name="title_activity_update_activity">Update_activity</string>
+    <string name="title_activity_checkappversion">checkappversion</string>
+</resources>
